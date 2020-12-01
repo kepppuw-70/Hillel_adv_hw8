@@ -1,0 +1,25 @@
+        ul {
+            list-style: none; 
+        }
+        a {
+            text-decoration: none;
+            padding: 1em;
+            border-right: 1px solid #b19891;
+            color: #695753;
+        }
+        nav {
+            display: block;
+            width: 600px;
+            
+        }
+        .menu li {
+            float: left;
+        }
+        .menu a {
+            display: block;
+            padding: 1em;
+            border-right: 1px solid #ADC0CE;
+            background: rgba(173, 192, 206, .3);
+            color: #29838C;
+        }
+     
